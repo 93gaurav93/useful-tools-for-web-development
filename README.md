@@ -12,4 +12,5 @@ jQUery Plugins
 Design Magazines
 -
 [**Speckyboy**](https://speckyboy.com/)
+
 [**Web Designer Depot**](https://www.webdesignerdepot.com/)
