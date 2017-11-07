@@ -1,6 +1,18 @@
 Useful tools for web development
 =
 
+Code Editors
+-
+**[Visual Studio Code](https://code.visualstudio.com/)**
+
+**[Sublime Text](https://www.sublimetext.com/)**
+
+IDE
+-
+**[PhpStorm](https://www.jetbrains.com/phpstorm/)**
+
+**[WebStorm](https://www.jetbrains.com/webstorm/)**
+
 Markdown Editors
 -
 **[Stack Edit](https://stackedit.io/)**
@@ -9,7 +21,7 @@ jQUery Plugins
 -
 [**Codrops**](https://tympanus.net/codrops/)
 
-Tutorials / Magazines
+Tutorials / Courses / Magazines
 -
 [**Wesbos**](http://wesbos.com/)
 
