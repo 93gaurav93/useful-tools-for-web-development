@@ -7,7 +7,7 @@ Code Editors
 
 **[Sublime Text](https://www.sublimetext.com/)**
 
-IDE
+IDEs
 -
 **[PhpStorm](https://www.jetbrains.com/phpstorm/)**
 
