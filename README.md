@@ -7,6 +7,7 @@ Code Editors
 
 **[Sublime Text](https://www.sublimetext.com/)**
 
+
 IDEs
 -
 **[PhpStorm](https://www.jetbrains.com/phpstorm/)**
@@ -18,7 +19,7 @@ UI Frameworks / Kits
 -
 **[Semantic UI](https://semantic-ui.com)**
 
-**[Admin BSB (Bootstrap + Material Design](https://github.com/gurayyarar/AdminBSBMaterialDesign)**
+**[Admin BSB (Bootstrap + Material Design)](https://github.com/gurayyarar/AdminBSBMaterialDesign)**
 
 **[Bootstrap 4](https://getbootstrap.com/)**
 
@@ -27,9 +28,11 @@ Markdown Editors
 -
 **[Stack Edit](https://stackedit.io/)**
 
+
 jQUery Plugins
 -
 [**Codrops**](https://tympanus.net/codrops/)
+
 
 Tutorials / Courses / Magazines
 -
