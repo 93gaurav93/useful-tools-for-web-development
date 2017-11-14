@@ -42,3 +42,10 @@ Tutorials / Courses / Magazines
 [**Speckyboy**](https://speckyboy.com/)
 
 [**Web Designer Depot**](https://www.webdesignerdepot.com/)
+
+
+Checkong Responsiveness
+-
+[**Browser Stack**](https://www.browserstack.com)
+
+[**Am I Responsive?**](http://ami.responsivedesign.is/)
