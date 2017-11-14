@@ -44,7 +44,7 @@ Tutorials / Courses / Magazines
 [**Web Designer Depot**](https://www.webdesignerdepot.com/)
 
 
-Checkong Responsiveness
+Checking Responsiveness
 -
 [**Browser Stack**](https://www.browserstack.com)
 
