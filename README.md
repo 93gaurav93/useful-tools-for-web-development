@@ -49,3 +49,10 @@ Checking Responsiveness
 [**Browser Stack**](https://www.browserstack.com)
 
 [**Am I Responsive?**](http://ami.responsivedesign.is/)
+
+
+SEO and Optimization Tools
+-
+[**Varvy**](https://varvy.com/)
+
+[**Google Lighthouse**](https://developers.google.com/web/tools/lighthouse/)
